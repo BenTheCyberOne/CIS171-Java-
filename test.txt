@@ -1,3 +1,0 @@
-/* 1 */ This is test
-/* 2 */ again a test
-/* 3 */ idk whats going on tbh
